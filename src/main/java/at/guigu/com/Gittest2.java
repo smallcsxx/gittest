@@ -11,5 +11,6 @@ public class Gittest2 {
         System.out.println("git2 hello");
         System.out.println("git2 hello");
         System.out.println("git4 hello");
+        System.out.println("master tast");
     }
 }
